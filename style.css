@@ -26,8 +26,6 @@ body {
   height: 100%; /* Establece la altura del contenedor al 100% */
   width: 80%; /* Establece la anchura del contenedor al 100% */
 
-  background-position: initial;
-    background-attachment: scroll;
 }
 
 @media screen and (max-width: 768px) {

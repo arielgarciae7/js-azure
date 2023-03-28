@@ -29,3 +29,10 @@ body {
   background-position: initial;
     background-attachment: scroll;
 }
+
+@media screen and (max-width: 768px) {
+  body {
+    background-position: initial;
+    background-attachment: scroll;
+  }
+}
